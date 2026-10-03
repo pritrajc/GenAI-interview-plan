@@ -1,0 +1,19 @@
+# Node
+node_modules/
+.env
+.env.*
+!.env.example
+
+# Build outputs
+Frontend/dist/
+Backend/.cache/
+
+# Logs
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
